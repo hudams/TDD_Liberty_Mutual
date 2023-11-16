@@ -2,5 +2,5 @@ package liberty.mutual.insurance.constants;
 
 public enum KeyConfig {
 
-	url, pageLoadTime, impliciteWaitLoad, expliciteWaitLoad
+	url, pageLoadTime, implicitWaitLoad, explicitWaitLoad;
 }
